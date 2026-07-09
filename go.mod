@@ -1,4 +1,4 @@
-module github.com/fadymondy/aeo
+module github.com/togo-framework/aeo
 
 go 1.26.4
 
